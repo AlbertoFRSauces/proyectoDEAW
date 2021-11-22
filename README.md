@@ -5,7 +5,7 @@
 
 **Fecha Inicio Proyecto: 15/10/2021**
 
-**Ultima Actualización: 21/11/2021**
+**Ultima Actualización: 22/11/2021**
 
 ## Descripción 
 Estructura del proyectoDEAW el cual contiene mi web para esa asignatura.
@@ -19,6 +19,6 @@ Estructura del proyectoDEAW el cual contiene mi web para esa asignatura.
 
 ## Entornos
 ### Desarrollo (local)
--  http://192.168.3.107/
+-  http://daw207.sauces.local/proyectoDEAW/indexProyectoDEAW.php
 ### Explotación (1&1)
 -  http://daw207.ieslossauces.es/proyectoDEAW/indexProyectoDEAW.php
